@@ -1,6 +1,6 @@
 # welcome bot: A Probot App
 
-This bot will bring happines to everyone.
+This bot will bring happines to everyone!
 
 ## What it does
 
