@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This bot will bring happines to everyone.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Each trouble is passed to bot, then it reloves it.
 
 ## Getting started
 
